@@ -13,5 +13,11 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*
-!/log/.keep
 /tmp
+/db/schema.rb
+/config/database.yml
+
+/.idea
+
+Gemfile.lock
+!/log/.keep
