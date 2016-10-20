@@ -17,9 +17,7 @@
 /db/schema.rb
 /config/database.yml
 
-/.idea
 .idea/*.*
-.idea
 
 Gemfile.lock
 !/log/.keep
