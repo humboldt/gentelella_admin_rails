@@ -9,25 +9,10 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/gentelella_bower.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Development__gentelella_bower.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Production__gentelella_bower.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/spec__gentelella_bower.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/test__gentelella_bower.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/openurl.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/bower_components/gentelella/node_modules/openurl/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="gentelella_bower.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,8 +82,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58132046" vertical-offset="0" max-vertical-offset="621">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.5507246" vertical-offset="0" max-vertical-offset="621">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -899,7 +884,19 @@
       <option name="project" value="LOCAL" />
       <updated>1476972851573</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".gitignore is now working">
+      <created>1476972906827</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1476972906827</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".gitignore is now working">
+      <created>1476972996772</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1476972996772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -964,9 +961,9 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Actualizando el gitignore" />
-    <MESSAGE value=".gitignore is now working" />
     <MESSAGE value="aasActualizando el gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="aasActualizando el gitignore" />
+    <MESSAGE value=".gitignore is now working" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore is now working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1362,8 +1359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58132046" vertical-offset="0" max-vertical-offset="621">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.5507246" vertical-offset="0" max-vertical-offset="621">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
