@@ -18,6 +18,7 @@
 /config/database.yml
 
 .idea/*.*
+.idea/workspace.xml
 
 Gemfile.lock
 !/log/.keep
